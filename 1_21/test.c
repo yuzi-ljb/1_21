@@ -36,9 +36,19 @@ int main()
 
 
 
-	float a = 5.0 / 2;
+	/*float a = 5.0 / 2;
 	float b = 5 / 2;
 	printf("a=%f\n", a);
-	printf("b=%f\n", b);
+	printf("b=%f\n", b);*/
+	
+	/*int a = 1;
+	a +=1;
+	printf("%d\n", a);*/
+	
+	/*int a = 2;
+	a -= 1;
+	printf("%d\n", a);*/
+	
+	
 	return 0;
 }
