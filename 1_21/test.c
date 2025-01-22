@@ -49,6 +49,16 @@ int main()
 	a -= 1;
 	printf("%d\n", a);*/
 	
+	/*int a = 11;
+	int b = ++a;
+	printf("a=%d b=%d\n", a, b);*/
+
+	/*int a = 11;
+	int b = a++;
+	printf("a=%d b=%d\n", a, b);*/
+
+	/*int a = (int)3.14;*/
 	
+	//printf("hellon%cworld%d\n",'a',2);
 	return 0;
 }
