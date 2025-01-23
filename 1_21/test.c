@@ -60,5 +60,20 @@ int main()
 	/*int a = (int)3.14;*/
 	
 	//printf("hellon%cworld%d\n",'a',2);
+
+
+	/*int a = 1234;
+	printf("a=%-7d\n", a);*/
+
+	//printf("%12f\n", 123.45);
+
+	//printf("%+d\n", -12);
+	//printf("%+d\n", +12);
+	
+	//printf("%8.4f\n", 1.2);
+	
+	//printf("%*.*f\n", 6,2,1.5);
+	
+	/*printf("%.5s\n","Hello world");*/
 	return 0;
 }
