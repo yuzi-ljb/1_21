@@ -75,5 +75,31 @@ int main()
 	//printf("%*.*f\n", 6,2,1.5);
 	
 	/*printf("%.5s\n","Hello world");*/
+
+	/*int score = 0;
+	printf("请输入分数:\n");
+	scanf_s("%d", &score);
+	printf("你的分数是:%d", score);*/
+	
+
+	//int x;
+	//float y;
+	//scanf_s("%d", &x);
+	//printf("%d\n", x);
+	//scanf_s("%f", &y);
+	//printf("%f\n", y);
+	
+	
+	/*int x;
+	float y;
+	scanf_s("%d%f", &x, &y);
+	printf("%d\n%f", x, y);*/
+
+	/*int nian;
+	int yue;
+	int ri;
+	scanf_s("%d%*c%d%*c%d", &nian, &yue, &ri);
+	printf("时间为%d-%d-%d", nian, yue, ri);*/
 	return 0;
+
 }
